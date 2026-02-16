@@ -1,0 +1,7 @@
+# compiled java files
+*.class
+
+# mac junk
+.DS_Store
+
+

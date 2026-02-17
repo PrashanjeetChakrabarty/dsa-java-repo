@@ -23,7 +23,7 @@ public class Main8 {
 
         // Array
 
-        int marks[] = {85,90,95,98,100};
+
 
         // O/P
 
@@ -33,10 +33,6 @@ public class Main8 {
         System.out.println("Grade = " + Grade);
         System.out.println("isStudent Status = " + isStudent);
         System.out.println("Bank Balance = " + bankBalance);
-        System.out.println(marks);
-
-
-
 
     }
 

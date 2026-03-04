@@ -1,17 +1,18 @@
 import java.util.*;
 
-//        Pattern Name :  Right Shifted Number Triangle
+//        Pattern Name: Right Shifted Increasing Number Triangle
 //
+//        Pattern Type: Number Pattern
 //
 //        Pattern:
 //
-//        1234
-//         234
-//          34
-//           4
+//        1
+//         12
+//          123
+//           1234
 //
 
-public class Pattern15 {
+public class Pattern16 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
@@ -25,7 +26,7 @@ public class Pattern15 {
             }
 
             // Print numbers
-            for(int j = i; j <= n; j++){
+            for(int j = 1; j <= i; j++){
                 System.out.print(j);
             }
 

@@ -2,6 +2,7 @@ import java.util.*;
 
 // Pattern Name: Number Diamond Pattern
 
+
 public class Pattern20 {
     public static void main(String[] args){
 

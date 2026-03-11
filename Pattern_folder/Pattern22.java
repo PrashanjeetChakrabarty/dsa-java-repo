@@ -2,7 +2,7 @@ import java.util.*;
 
 // Pattern Name: Pascal's Triangle
 
-public class Pattern27{
+public class Pattern22{
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class Pattern27{
         for(int i = 0; i < n; i++){
 
             int num = 1;
-
+            
             for(int j = 0; j < n - i; j++){
                 System.out.print(" ");
             }

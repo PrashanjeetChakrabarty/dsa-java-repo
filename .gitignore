@@ -1,7 +1,4 @@
-# compiled java files
+bin/
 *.class
-
-# mac junk
+.vscode/
 .DS_Store
-
-

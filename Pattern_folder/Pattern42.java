@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Pattern42 {
     public static boolean isPrime(int num) {

@@ -1,4 +1,4 @@
-package Function_folder;
+
 import java.util.* ;
 
 
@@ -7,7 +7,7 @@ import java.util.* ;
 //              // operations
 //              return value;
 //          }
-
+//....................................................................
 // Print a given name in a function
 
 public class Function{
